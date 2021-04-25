@@ -1,5 +1,5 @@
-- 🌞 JS dev by day
-- ♥️ Ruby dev by heart
+🌞 JS dev by day  
+♥️ Ruby dev by heart
 
 
 <!---
